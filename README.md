@@ -1,7 +1,10 @@
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=y2sman)](https://solved.ac/y2sman)
+
 ### 👨‍💻About me
 
 - Email : [y2sm2n@gmail.com](mailto:y2sm2n@gmail.com)
 - Blog : [https://y2sman.github.io](https://y2sman.github.io/)
+- Can use... `Python`, `C++`, `Django`, `React`
 
 ### 🎓학력
 
@@ -39,3 +42,7 @@
 
 - 정보보안영재교육원 1, 2기 수료 (2014-2015)
 - 차세대 보안리더 양성 프로그램 BoB 8기 수료 (2019-2020)
+
+**기타**
+
+- "[hackingzone](https://hackingzone.net/)" 버그바운티 CBT 참여 (2020)
