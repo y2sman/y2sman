@@ -4,14 +4,16 @@
 
 - Email : [y2sm2n@gmail.com](mailto:y2sm2n@gmail.com)
 - Blog : [https://y2sman.github.io](https://y2sman.github.io/)
-- Can use... `Python`, `C++`, `Django`, `React`
+- Google Scholar : [https://scholar.google.com/citations?user=ieIcFBQAAAAJ](https://scholar.google.com/citations?user=ieIcFBQAAAAJ)
+- Cover Letter : [https://y2sman.notion.site/](https://y2sman.notion.site/)
+- Can use... `Python`, `C++`, `Django`, `React` And `PyTorch`!
 
 ### 🎓학력
 
 - 세종대학교 정보보호학과 학사 (2016.03 ~ 2022.02)
 - 세종대학교 정보보안동아리 SSG (2016.04 ~ 2022.02)
 - 세종대학교 Robotics and Computer Vision Lab (2021.09 ~)
-- 세종대학교 지능기전공학과 지능기전공학 석사 (2022.03 ~)
+- 세종대학교 지능기전공학과 지능기전공학 석사 (2022.03 ~ 2024.02)
 
 ### 활동 이력
 
@@ -24,14 +26,20 @@
 
 📄**논문**
 
-**정보보호학회**
+**인공지능**
 
-- HastFuzz: 선행 분석 결과 기반의 실행 흐름 유도를 통한 퍼징 방법론 (2018)
-- 화이트해커와 기업 분석을 통한 국내 버그바운티 활성화 방안 제시 (2019)
+- Video Feature Description by Unrelated Region Suppression (Thesis/2023)
+- VVS: Video-to-Video Retrieval with Irrelevant Frame Suppression (AAAI/2024)
+- Simultaneous Video Retrieval and Alignment (IEEE Access/2023)
+- A Survey on Voice Activity Detection (KRoC/2023)
+- VERD: Emergence of Product-based Video E-commerce Retrieval Dataset from User's Perspective (Sensors/2023)
+- Survey on Emotion Recognition Databases (ICCAS/2022)
 
-**한국차세대컴퓨팅학회**
+**정보보호**
 
-- PF-RNG: 초저가 컴퓨팅 디바이스의 무선 보안 통신 채널 형성을 위한 엔트로피수집 모델 제안 (2018)
+- 화이트해커와 기업 분석을 통한 국내 버그바운티 활성화 방안 제시 (한국정보보호학회/2019)
+- PF-RNG: 초저가 컴퓨팅 디바이스의 무선 보안 통신 채널 형성을 위한 엔트로피수집 모델 제안 (한국차세대컴퓨팅학회 /2018)
+- HastFuzz: 선행 분석 결과 기반의 실행 흐름 유도를 통한 퍼징 방법론 (한국정보보호학회/2018)
 
 **🗂️프로젝트**
 
