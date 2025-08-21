@@ -3,10 +3,9 @@
 ### 👨‍💻About me
 
 - Email : [y2sm2n@gmail.com](mailto:y2sm2n@gmail.com)
-- Blog : [https://y2sman.github.io](https://y2sman.github.io/)
 - Google Scholar : [https://scholar.google.com/citations?user=ieIcFBQAAAAJ](https://scholar.google.com/citations?user=ieIcFBQAAAAJ)
 - Cover Letter : [https://y2sman.notion.site/](https://y2sman.notion.site/)
-- Can use... `Python`, `C++`, `Django`, `React` And `PyTorch`!
+- Can use... `Python`, `Django`, `React` And `PyTorch`!
 
 ### 🎓학력
 
@@ -28,6 +27,7 @@
 
 **인공지능**
 
+- Enhancing Visual Representation of Untrimmed Videos by Counteracting Visuality-Threatening Content (Pattern Recognition/2025)
 - Video Feature Description by Unrelated Region Suppression (Thesis/2023)
 - VVS: Video-to-Video Retrieval with Irrelevant Frame Suppression (AAAI/2024)
 - Simultaneous Video Retrieval and Alignment (IEEE Access/2023)
